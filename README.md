@@ -2,7 +2,6 @@
 
 ## 🏫 My Type
 <div align="center">
-    <img align="center" alt="Coding" width="auto" src="https://res.cloudinary.com/dqtnqk8fq/image/upload/v1739106361/df3ba6edac5d13034a4c_z6qbfq.jpg">
 </div>
 
 
@@ -23,7 +22,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/yourprofile)
 </div>
