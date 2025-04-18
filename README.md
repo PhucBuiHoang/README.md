@@ -1,13 +1,4 @@
 ## 🏄‍♂️ Diggoryze
-- 👋 Hi, I’m Đồng nè
-- 👀 I’m interested in Cybersecurity Critical Infrastructure
-- 🌱 I’m currently learning mathematics and computer science
-- ⚡ Fun fact: I like Guitar and Music
-
-## 🎼 my favorite song
-
-[![my favorite song](https://spotify-recently-played-readme.vercel.app/api?user=31onhr2zp5nfcn7xsmgcdknkuzae&count=2)](https://open.spotify.com/collection/tracks)
-
 
 ## 🏫 My Type
 <div align="center">
@@ -18,9 +9,7 @@
 ## 👜 Connect with me
 
 <div align="center">
-<a href="https://www.facebook.com/diggoryze/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="diggoryze" height="30" width="40" /></a>
-<a href="https://www.instagram.com/Diggoryze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Diggoryze" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@diggoryze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@diggoryze" height="30" width="40" /></a>
+<a href="https://www.facebook.com/phucbui26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="diggoryze" height="30" width="40" /></a>
 </div>
 
 
